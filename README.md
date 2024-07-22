@@ -18,4 +18,4 @@
                 - grub-install /dev/sda
                 - grub-mkconfig -o /boot/grub/grub.cfg
 
-- [Start Reading](https://www.linuxfromscratch.org/lfs/view/stable/prologue/foreword.html)
+- Start [Reading](https://www.linuxfromscratch.org/lfs/view/stable/prologue/foreword.html)
