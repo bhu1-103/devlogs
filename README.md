@@ -19,3 +19,7 @@
                 - grub-mkconfig -o /boot/grub/grub.cfg
 
 - Start [Reading](https://www.linuxfromscratch.org/lfs/view/stable/prologue/foreword.html)
+    - How to install packages
+        - make when Makefile exists.
+        - xmkmf when Imake exists.
+        - extracting deb or rpm packages (but its a bad idea).
